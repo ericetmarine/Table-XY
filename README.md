@@ -5,4 +5,5 @@ test_auto_level3.ino à installer sur l'arduino Uno
 De plus, il y a les fichiers stl pour fixer le detecteur
 le micro switch provient d'un graveur de CD ainsi que les deux guides en acier, les ressorts eux viennent de deux stylos billes.
 voir les photos.
-le 18 avril 2016
+les contacts du micro switch sont connectés aux bornes fin de courses -Z
+le 19 avril 2016
