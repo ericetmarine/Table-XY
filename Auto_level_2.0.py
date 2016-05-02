@@ -32,7 +32,7 @@ while EntreeNomfichier=="":
         if os.path.isfile(Nomfichier)==True:
             Nomfichier='/home/eric/Table XYZ/'+ EntreeNomfichier +"_"+heure+'.txt'#Ajout heure au nom du fichier pour eviter l'ecrasement du fichier
             print("le fichier existe ")
-            continue
+            #continue
         try:
             ser = serial.Serial('/dev/ttyACM0',115200, timeout=1)  # ouverture port serie
             print("connecté au port /dev/ttyACM0")
